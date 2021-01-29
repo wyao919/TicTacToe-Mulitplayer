@@ -1,2 +1,2 @@
 # TicTacToe-Mulitplayer
-Server Client TIC TAC TOE PROGRAM
+Server/Client TIC TAC TOE PROGRAM
